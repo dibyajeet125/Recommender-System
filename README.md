@@ -49,3 +49,7 @@ Integrate hybrid models combining multiple recommendation techniques.
 Explore deep learning models for enhanced performance.
 
 Develop a user interface for interactive recommendations.
+
+DATASET LINK: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset/data
